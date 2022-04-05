@@ -22,3 +22,8 @@ Regards,
 Product and Invoices
 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/8070148/161782348-133cfc3e-b1a0-43a7-8e7b-1e67e688181b.png">
+
+Invoice and Clients
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/8070148/161814536-8a03d5e3-8caa-4065-bdba-2020f07c47e9.png">
+
