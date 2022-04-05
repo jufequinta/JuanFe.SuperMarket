@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuanFe.Supermarket.Solution", "JuanFe.Supermarket.Solution\JuanFe.Supermarket.Solution.csproj", "{98C4FDEE-72B5-4118-A79A-952D86ED9660}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database Project", "Database Project", "{9F70FC59-B7D6-4EFD-8726-DC8500DB0035}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "JuanFe.SuperMarket.DataBase", "JuanFe.SuperMarket.DataBase\JuanFe.SuperMarket.DataBase.sqlproj", "{F2242085-A2F5-4719-9A7E-458D13271D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,18 @@ Global
 		{98C4FDEE-72B5-4118-A79A-952D86ED9660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C4FDEE-72B5-4118-A79A-952D86ED9660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C4FDEE-72B5-4118-A79A-952D86ED9660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2242085-A2F5-4719-9A7E-458D13271D94}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2242085-A2F5-4719-9A7E-458D13271D94} = {9F70FC59-B7D6-4EFD-8726-DC8500DB0035}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D15DE717-5D64-4A69-B79B-72960770D6C0}
