@@ -231,3 +231,4 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/JuanFe.Supermarket.Solution/JuanFe.SuperMarket.DataBase/JuanFe.SuperMarket.DataBase.jfm
