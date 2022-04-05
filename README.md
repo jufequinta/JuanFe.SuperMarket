@@ -11,4 +11,6 @@ Project in Angular to Supermarket online
 Backend Project on .NET with all EndPoints to call from UI project.
 Database Project in SQL Server.
 Automation of buy and re-supply all products of sites in this project.
+
+
 Regards,
