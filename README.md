@@ -14,3 +14,11 @@ Automation of buy and re-supply all products of sites in this project.
 
 
 Regards,
+
+
+
+DataBase Structure:
+
+Product and Invoices
+
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/8070148/161782348-133cfc3e-b1a0-43a7-8e7b-1e67e688181b.png">
