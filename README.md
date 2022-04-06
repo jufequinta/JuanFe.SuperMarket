@@ -1,5 +1,5 @@
 # JuanFe.SuperMarket
-This is the new project to put into practice all knowledge. NET.
+This is the new project to put into practice all knowledge. NET. But this repository explain all to do in the project Supermarket. This repository has the microservice of Security.
 
 What do you expect from this project?
 
@@ -30,4 +30,7 @@ Invoice and Clients
 User and Security
 
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/8070148/161827360-a8fe92b1-ac3d-4bf0-900b-b997a15c35d1.png">
+
+# Security 
+This project use a JWT Token to the authorization in the API's
 
