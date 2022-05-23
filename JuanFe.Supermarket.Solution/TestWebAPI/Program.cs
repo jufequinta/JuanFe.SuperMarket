@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace JuanFe.Supermarket.Product.Solution
+namespace TestWebAPI
 {
     public class Program
     {
